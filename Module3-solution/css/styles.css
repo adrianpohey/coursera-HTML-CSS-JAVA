@@ -1,0 +1,29 @@
+h1{
+	color: black;
+}
+.navbar-header{
+	height: 100px;
+}
+#header-nav{
+	background-color: grey;
+	border-radius: 0;
+	border:0;
+}
+
+#nav-list li a {
+	color: black;
+	text-align: center
+}
+
+#nav-list li a:hover{
+	background-color: white; 
+}
+
+.overall{
+	background-color: gray;
+	border:1px solid black;
+	margin-bottom: 20px;
+}
+
+
+/* media */
