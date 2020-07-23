@@ -17,7 +17,7 @@ Link:
 
 ## Module 4 solution:
 html source code:
-[Here](./Module4-solution/index.html)
+[Here](./Module4-solutions/index.html)
 
 Link:
-[Here](https://adrianpohey.github.io/coursera-HTML-CSS-JAVA/Module4-solution/index.html)
+[Here](https://adrianpohey.github.io/coursera-HTML-CSS-JAVA/Module4-solutions/index.html)
