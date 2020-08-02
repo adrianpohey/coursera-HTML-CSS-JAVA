@@ -21,3 +21,10 @@ html source code:
 
 Link:
 [Here](https://adrianpohey.github.io/coursera-HTML-CSS-JAVA/Module4-solutions/index.html)
+
+## Module 5 solution:
+html source code:
+[Here](./Module5_solution/index.html)
+
+Link:
+[Here](https://adrianpohey.github.io/coursera-HTML-CSS-JAVA/Module5_solutions/index.html)
