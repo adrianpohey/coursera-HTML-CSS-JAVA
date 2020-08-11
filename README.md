@@ -1,5 +1,6 @@
 # coursera-test
 Coursera Repository HMTL CSS Java
+My first attempt at CSS and Javascript. A course from coursera and contains 4 assignments that are coding-related.
 
 ## Module 2 solution
 html source code:
